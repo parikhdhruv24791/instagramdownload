@@ -1,0 +1,16 @@
+{
+  "name" : "demo",
+  "description" : "",
+  "version" : "0.0.1",
+  "author" : "",
+  "engines" : ["node"],
+  "repository" : "",
+  "dependencies" : {
+    "express" : ">=2.4.3",
+    "body-parser":"latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "cors": "latest"
+
+  }
+}
